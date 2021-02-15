@@ -19,6 +19,14 @@ Then go to the File menu (under where it says Task Manager and where it has the 
 If you don't have access to Task Manager: I hope you saved all your files because you'll have to do a soft reset. Hold the power button on your device till it shuts down.
 
 
+About hmmm.bat:
+hmmm.. what could it be?
+Its a Batch file (duhh) that I made purely because I was bored. It quickly makes a VBScript messagebox with title "hmmm" and text "hmmm" in %localappdata%\temp
+Then it deletes that temporary VBScript file and infinitely says "hmmm" (but not in your average way of saying something hehe)
+(Its useless, harmless, but I thought.. why not throw it in here :))
+Instructions on how to cu-, wait, what do you want to customize about this lol
+
+
 About loadingbar.cmd:
 Its a loading bar in the console.. nothing special to it...
 Instructions on how to customize it are in the file itself (open with notepad or notepad++ or smh)
