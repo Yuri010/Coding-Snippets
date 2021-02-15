@@ -50,4 +50,4 @@ I don't really have a use for it so... here you go I guess
 (its inspired by this: https://www.youtube.com/watch?v=sCh_wEzItbI)
 
 
-### *Other bits may be coming (or things I question myself every time I want to use it like if it is ``if else`` or ``else`` or ``else do`` or smh like that...*
+*Other bits may be coming (or things I question myself every time I want to use it like if it is ``if else`` or ``else`` or ``else do`` or smh like that...*
