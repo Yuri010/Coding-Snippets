@@ -49,5 +49,9 @@ I just made this when my pc would just sleep at random moments, although the set
 I don't really have a use for it so... here you go I guess
 (its inspired by this: https://www.youtube.com/watch?v=sCh_wEzItbI)
 
+## About OPC.bat
+This was just a test for Operating Parameters
+%1 is the first option, %2 the second, etc (until %9)
+
 
 *Other bits may be coming (or things I question myself every time I want to use it like if it is ``if else`` or ``else`` or ``else do`` or smh like that...*
