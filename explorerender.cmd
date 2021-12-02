@@ -15,7 +15,9 @@ goto :mainscript
 )
 
 :Restarted
+::<code here that runs when restarted>
 goto :start
 
 :mainscript
+::<code here that runs when it wasn't able to kill explorer.exe (it didn't exist)>
 goto :start
