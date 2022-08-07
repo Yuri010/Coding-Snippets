@@ -1,3 +1,5 @@
+***readme hasn't been updatend in a while, not planning to do so either***
+
 # Batch-Snippets
 Batch bits and pieces that I use in some of my private projects
 
